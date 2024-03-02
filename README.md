@@ -12,7 +12,10 @@
 
   https://cloudconvert.com/mp3-to-wav
   
-    WAV - codec: PCM_S16le - Channel: Mono - SampleRate: 44100 - Volume: no change
+    WAV - codec: PCM_S16le 
+    Channel: Mono 
+    SampleRate: 44100
+    Volume: no change
 
   Adjust with audicity if necessary
 
