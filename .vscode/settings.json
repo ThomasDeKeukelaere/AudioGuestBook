@@ -1,0 +1,19 @@
+{
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0}",
+    "C_Cpp.clang_format_style": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0}",
+    "C_Cpp.vcFormat.indent.accessSpecifiers": false,
+    "C_Cpp.vcFormat.indent.braces": false,
+    "C_Cpp.vcFormat.indent.caseLabels": false,
+    "C_Cpp.vcFormat.indent.caseContentsWhenBlock": false,
+    "C_Cpp.vcFormat.indent.preserveComments": true,
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "*.tcc": "cpp",
+        "iosfwd": "cpp",
+        "limits": "cpp",
+        "exception": "cpp",
+        "new": "cpp",
+        "string": "cpp",
+        "initializer_list": "cpp"
+    }
+}

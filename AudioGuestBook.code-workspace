@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "AudioGuestBook",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "cpp",
+			"iosfwd": "cpp",
+			"limits": "cpp",
+			"exception": "cpp",
+			"new": "cpp",
+			"string": "cpp",
+			"initializer_list": "cpp",
+			"fstream": "cpp",
+			"cstdio": "cpp",
+			"deque": "cpp",
+			"vector": "cpp",
+			"functional": "cpp",
+			"type_traits": "cpp"
+		}
+	}
+}
