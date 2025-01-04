@@ -1,5 +1,6 @@
+An audioguestbook project based on playfultechnology: https://github.com/playfultechnology/audio-guestbook
 
-![alt text](https://github.com/ThomasDeKeukelaere/AudioGuestBook/blob/main/Flowchart.png?raw=true)
+![alt text](https://github.com/ThomasDeKeukelaere/AudioGuestBook/blob/main/Flowchart-EN.png?raw=true)
 
 
 
